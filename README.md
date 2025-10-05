@@ -7,7 +7,7 @@ Este estudio del flujo post-adquisición es crítico, ya que revela que el valor
 1. **Alto Riesgo Operativo (Fuga por Cancelación):** Se identifica una **tasa de cancelación o fallo de pedidos del 16.5%**, lo que implica la pérdida de **3,654 pedidos** ($22,190 - 18,536$). Esto genera costos operacionales y una mala experiencia de cliente.
 2. **Desafío de la Lealtad:** Solo el **15.35%** de los clientes con pedidos netos completados ($18,536$) regresan para una segunda compra. El **84.65%** restante son compradores de una sola vez, limitando drásticamente el Valor de Vida del Cliente (CLV).
 
-[**Resumen Ejecutivo**]()
+[**Resumen Ejecutivo**](https://github.com/Marcoaurelio700/Post-Acquisition-Funnel-Optimization/blob/master/Post_Acquisition_Funnel_Optimization/deliverables/Optimizaci%C3%B3n%20de%20la%20Eficiencia%20Operativa%20y%20Conversi%C3%B3n%20Reducci%C3%B3n%20de%20Fricciones%20en%20el%20Embudo%20Post-Adquisici%C3%B3n.pdf)
 
 **Recomendación:** Se debe priorizar un plan de acción dual: **1) Auditar y reducir las fallas operativas** que causan cancelaciones para mejorar la eficiencia y **2) Enfocar la inversión de marketing en la retención** para aumentar la base de Clientes Leales ($2,845$).
 
@@ -35,7 +35,7 @@ El análisis se basó en el recuento de eventos transaccionales, creando cuatro 
 
 El dashboard fue construido en Power BI para comunicar de forma visual y numérica los hallazgos (Mostrando la tasa de conversión paso a paso).
 
-![(**Dashboard:**)]()
+![(**Dashboard:**)](https://github.com/Marcoaurelio700/Post-Acquisition-Funnel-Optimization/blob/master/Post_Acquisition_Funnel_Optimization/deliverables/Visualizacion_Embudo_Eficiencia_Lealtad.png)
 
 ## Instrucciones de Reproducción
 
